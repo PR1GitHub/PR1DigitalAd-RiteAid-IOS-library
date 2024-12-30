@@ -19,7 +19,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "PR1DigitalAd",
-            path: "Sources/PR1DigitalAd_0.3.0.xcframework"
+            path: "Sources/PR1DigitalAd_0.3.1.xcframework"
         )
     ]
 )
